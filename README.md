@@ -1,16 +1,9 @@
 # w3b_app
 
-A new Flutter project.
+Flutter Id Scan App
 
-## Getting Started
+Flutter version = 3.16.7
+Dart Sdk version =  3.2.4
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-04-19 at 22 01 58_ea254c72](https://github.com/ESAG-NDE-DEVS/id-Scan-App/assets/105164707/d857301b-82f0-45fb-9b81-c76f1cc2c900)
